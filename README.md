@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi all! 
+
+My name is Ruslan, i like Node.js
